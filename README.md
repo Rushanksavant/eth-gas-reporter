@@ -13,4 +13,4 @@ This is a sample hardhat project with eth-gas-reporter
     ```npx hardhat test``` <br>
 
 ## Output:
-<img src="./Capture.PNG" width="550" />
+<img src="./Capture.PNG" width="700" />
