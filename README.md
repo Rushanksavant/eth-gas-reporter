@@ -11,3 +11,6 @@ This is a sample hardhat project with eth-gas-reporter
 - copy the hardhat.config.js from the code above <br>
 - enter the following command in terminal to see the results: <br>
     ```npx hardhat test``` <br>
+
+## Output:
+<img src="./Capture.PNG" width="550" />
