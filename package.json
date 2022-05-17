@@ -1,0 +1,7 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "hardhat-gas-reporter": "^1.0.8"
+  }
+}
